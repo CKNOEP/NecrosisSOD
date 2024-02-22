@@ -1,0 +1,16 @@
+lightweight tag 22486df0d1e80c5e0d63f8c3a74ff833ea95b064 1.14.04.1
+Author:	LANCESTRE <lancetre@intenebris.org>
+Date:	Sun Sep 17 10:01:51 2023 +0200
+
+commit 22486df0d1e80c5e0d63f8c3a74ff833ea95b064
+Author: LANCESTRE <lancetre@intenebris.org>
+Date:   Sun Sep 17 10:01:51 2023 +0200
+
+    Update _Kudos.txt
+
+commit 322b9b8724db421f62909ab1559097eafa90b779
+Author: LANCESTRE <lancetre@intenebris.org>
+Date:   Sun Sep 17 09:45:07 2023 +0200
+
+    init
+
