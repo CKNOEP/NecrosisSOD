@@ -1,4 +1,4 @@
-## Interface: 11404
+## Interface: 11501
 ## Title: Necrosis 7.6c
 ## Title-ruRU: Necrosis (Русский)
 ## Title-frFR: Necrosis (Français)
